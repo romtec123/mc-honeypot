@@ -1,0 +1,24 @@
+{
+  "name": "mc-honeypot",
+  "version": "1.0.0",
+  "description": "honeypot to log ping bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romtec123/mc-honeypot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romtec123/mc-honeypot/issues"
+  },
+  "homepage": "https://github.com/romtec123/mc-honeypot#readme",
+  "dependencies": {
+    "minecraft-protocol": "^1.36.1",
+    "node-fetch": "^2.6.7",
+    "path": "^0.12.7"
+  }
+}
